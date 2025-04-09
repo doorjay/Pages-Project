@@ -2,6 +2,9 @@
 
 My name is Dorjé Pradhan, I am a transfer student to UCSD. I transfered this past fall quarter into CSE! I was born in Seattle, Washington but I've spent most of my life in Orange County. Before I went to college, I was dead set on pursuing a career as a muciscian, although when COVID hit I decided that I should really choose a path with a bit more stability. I still play guitar for fun and occasionally will take gigs with friends, but I am fully devoted to improving my skills as a new programmer and potentially future software engineer. I have not done an internship yet although I have been applying to a few so which me luck! I am still trying to hone on what I want to do specifically within the large scope of pragramming and computer science. I'm hoping that this class can help me get an understanding of what it could be like to work as a *software engineer*. Although I tend to do well in classes, I can;t help but feel very inexperienced as a programmer. This is something that is touched on a lot in this class so, I hope that durring this quarter I can figure out what I can do to help remedy this. 
 
+## Here are the screenshots that were requested
+![Git commands](Screenshots/Git.png)
+![VS Code info](Screenshots/VSCode.png)
 
 ## Here are the samples of the different things you can do in markdown!
 
